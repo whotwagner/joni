@@ -1,0 +1,12 @@
+# mpdport: 6600
+# mpdhost: localhost
+volume: 60
+timeout: 10
+
+tracks:
+    - id: 199392919
+      description: "Back to Black and AnneKaffeekanne"
+      volume: 5
+      play: 
+        - spotify:track:2iEGj7kAwH7HAa5epwYwLB
+        - file:///home/pi/Kindercds/annekaffekanne/Track01.wav
