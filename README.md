@@ -1,4 +1,4 @@
-# Joni, Joni, Yes Papa?
+# Joni
 
 Joni is a script that can be combined with [nfc-daemon](https://github.com/whotwagner/nfc-daemon.git). It queries a yaml-file
 with the given uid of a nfc-tag in order to get a playlist and it plays it
